@@ -1,5 +1,5 @@
 ### Usage
-For example, you can use this commaned below to train a ResNet18 model with cifar10.
+For example, you can use this commaned below to train a ResNet18 model with CIFAR10.
 ```
 python main.py --data cifar10 \
                --batch-size 128 \
