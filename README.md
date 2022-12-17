@@ -1,8 +1,8 @@
-## An Individual Project in Deep Learning 2: Computer Vision Module @SeoulTech 
+## An Individual Project in Deep Learning Application 2: Computer Vision Module @SeoulTech 
 
 #### Prof. Sangheum Hwang
 
-This repository contains the code for the individual project in Deep Learning 2: Computer Vision Module at SeoulTech lectured by Prof. Sangheum Hwang. Implementations of [MoCo](https://github.com/facebookresearch/moco) and [PiCO](https://github.com/hbzju/PiCO) are from the official PyTorch implemntations of each work.
+This repository contains the code for the individual project in Deep Learning Application 2: Computer Vision Module at SeoulTech lectured by Prof. Sangheum Hwang. Implementations of [MoCo](https://github.com/facebookresearch/moco) and [PiCO](https://github.com/hbzju/PiCO) are from the official PyTorch implemntations of each work.
 
 
 ### Motivation
