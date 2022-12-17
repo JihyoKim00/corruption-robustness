@@ -21,7 +21,7 @@ CUDA_VISIBLE_DEVICES=0 python main_lincls.py
 ```
      
 ### Arguments
-Explanation for arguments which are from official MoCo implementation are skipped.
+Explanation for arguments which are from official MoCo implementation are leaved out.
 
  |    name    |  type |           available values           |                      help                         |
  |:----------:|:-----:|:------------------------------------:|:--------------------------------------------------|
