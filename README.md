@@ -1,4 +1,4 @@
-# An Individual Project in Deep Learning 2: Computer Vision Module @SeoulTech 
+## An Individual Project in Deep Learning 2: Computer Vision Module @SeoulTech 
 
 #### Prof. Sangheum Hwang
 
